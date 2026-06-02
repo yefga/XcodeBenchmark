@@ -13,11 +13,27 @@ If a device you are looking for is not listed below, check out open [issues](htt
 
 |        Device        |           CPU           | RAM | SSD | Xcode |   macOS  | Time(sec) |
 |:--------------------:|:-----------------------:|:---:|:---:|:-----:|:--------:|:---------:|
+| MacBook Pro 16" 2026 |      M5 Max 18-core     | 48  | 2TB | 26.3  |  26.4    |    84     |
+| MacBook Pro 16" 2026 |      M5 Pro 18-core     | 48  | 1TB | 26.3  |  26.3    |    89     |
+| MacBook Pro 16" 2024 |      M4 Max 16-core     | 48  | 1TB | 26.3  |  26.2    |    89     |
+| Mac Studio 2023      |      M2 Ultra 24-core   | 64  | 2TB | 26.2  |  26.2    |    93     |
+| MacBook Pro 14" 2026 |      M5 Pro 15-core     | 24  | 1TB | 26.4  |  26.4    |    101    |
 | Macbook Pro 16" 2024 |      M4 Pro 14c         | 48  | 1TB | 26.1  |  15.7.1  |    104    |
 | Macbook Pro 16" 2024 |      M2 Pro 12c         | 16  | 1TB | 26.1  |  26.1    |    158    |
 | Mac Mini 2023        |      M2 Pro 10c         | 16  | 512 | 26.1  |  26.1    |    185    |
 | Macbook Air 13" 2024 |      M4 10c (10c GPU)   | 16  | 256 | 26.1  |  26.1    |    188    | 
 | Macbook Pro 14" 2024 |      M4 Pro 10c (10c GPU)   | 24  | 512 | 26.0  |  26.1    |    126.634    | 
+| MacBook Pro 14" 2024 |      M4 Pro 14c         | 48  | 1TB | 26.3  |  26.3.1  |    108    |
+| Mac Studio 2022      |      M1 Ultra 20-core   | 128 | 1TB | 26.1.1|  26.1    |    112    |
+| Macbook Pro 14" 2025 |      M5 10-core         | 16  | 512 | 26.3  |  26.3.1  |    146    |
+| Mac Mini 2024        |      M4 Pro 14-core     | 64  | 4TB | 26.4  |  26.3.1  |    146    |
+| MacBook Pro 14" 2024 |      M4 Pro 12c         | 24  | 512 | 26.3  |  26.3    |    164    |
+| Macbook Air 13" 2026 |      M5 10c (10c GPU)   | 32  | 512 | 26.3  |  26.3.1  |    173    |
+| Macbook Air 13" 2024 |      M4 10c (10c GPU)   | 16  | 256 | 26.1  |  26.1    |    188    |
+| Macbook Pro 16" 2021 |      M1 Max 10-core     | 64  | 1TB | 26.3  |  26.4    |    188    |
+| Macbook Pro 14" 2021 |      M1 Pro 10-core     | 16  | 1TB | 26.3  |  26.2    |    194    |
+| Macbook Neo 13" 2026 |      A18 Pro 6-core     |  8  | 512 | 26.3  |  26.3.2  |    404    |
+
 
 
 ## Xcode 16 
@@ -383,7 +399,7 @@ Please make sure to add [the link](https://github.com/devMEremenko/XcodeBenchmar
 
 ## Contribution
 
-**Since Oct 1st, 2023, XcodeBenchmark must be used with Xcode 15.0 or above.**
+**Since Feb 2026, XcodeBenchmark must be used with Xcode 26.3 or above.**
 
 - **If you have any non-Apple hardware components - submit your results to the `Custom Hardware` table.**
 - [Submit a pull request](https://github.com/devMEremenko/XcodeBenchmark/pulls).  
